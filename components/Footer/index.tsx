@@ -50,6 +50,7 @@ const Footer = () => {
                   <a
                     href="https://www.youtube.com/@EntreMundosVn"
                     target="_blank"
+                    rel="noreferrer"
                     aria-label="social-link"
                     className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                   >
