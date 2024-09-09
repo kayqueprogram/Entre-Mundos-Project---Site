@@ -9,7 +9,7 @@ const testimonialData: Testimonial[] = [
     designation: "Realizador do projeto Entre Mundos",
     content:
       "Este projeto, não se trata apenas de um game, mas de uma visão de mundo, em diferentes pontos de vista.",
-    image: "/images/testimonials/kay.jpeg",
+    image: "/images/testimonials/kay.jpg",
     star: 5,
   },
   {
