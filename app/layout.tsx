@@ -22,6 +22,8 @@ export default function RootLayout({
       */}
       <head>
         <title>Entre Mundos - Visual Novel (Contemplado na LPG)</title>
+
+        <meta name="google-site-verification" content="HXK5dnjVmPdWgukB5mk9Lwgk4KMk-DU6M6HYeWE9o-8" />
       </head>
 
       <body className={`bg-[#FCFCFC] dark:bg-black ${inter.className}`}>

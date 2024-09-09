@@ -12,7 +12,7 @@ import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
 
-import Head from "next/head";
+;
 
 export const metadata: Metadata = {
   title: "Entre Mundos - Visual Novel(Comtemplado na LPG)",
@@ -22,9 +22,6 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <>
-    <Head>
-      <meta name="google-site-verification" content="HXK5dnjVmPdWgukB5mk9Lwgk4KMk-DU6M6HYeWE9o-8" />
-    </Head>
       <ScrollUp />
       <Hero />
       <Development />
