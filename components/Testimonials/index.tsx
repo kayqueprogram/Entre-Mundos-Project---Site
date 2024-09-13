@@ -32,6 +32,15 @@ const testimonialData: Testimonial[] = [
   },
   {
     id: 4,
+    name: "Rute Vitória",
+    designation: "Revisora do Projeto Entre Mundos",
+    content:
+      "Que pessoas possam ser alcançadas através desse projeto, mudando sua visão de mundo, percebendo o que verdadeiramente é importante",
+    image: "/images/testimonials/Rute.jpg",
+    star: 5,
+  },
+  {
+    id: 5,
     name: "Maria Eduarda",
     designation: "Dubladora do Projeto Entre Mundos",
     content:
