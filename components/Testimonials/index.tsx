@@ -48,6 +48,15 @@ const testimonialData: Testimonial[] = [
     image: "/images/testimonials/maria.jpg",
     star: 5,
   },
+  {
+    id: 6,
+    name: "Arthur Rocha",
+    designation: "Editor do Projeto Entre Mundos",
+    content:
+      "O projeto de fato está poggers, foi uma experiência única fazer parte da build do projeto, um projeto simples mas ambicioso, com o potencial de farmar muitos players amantes de jogos Indie",
+    image: "/images/testimonials/Arthur.jpg",
+    star: 5,
+  },
 ];
 
 const Testimonials = () => {
