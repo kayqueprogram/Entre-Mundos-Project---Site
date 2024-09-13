@@ -36,7 +36,7 @@ const testimonialData: Testimonial[] = [
     designation: "Revisora do Projeto Entre Mundos",
     content:
       "Que pessoas possam ser alcançadas através desse projeto, mudando sua visão de mundo, percebendo o que verdadeiramente é importante",
-    image: "/images/testimonials/Rute.jpg",
+    image: "/images/testimonials/Rute.png",
     star: 5,
   },
   {
