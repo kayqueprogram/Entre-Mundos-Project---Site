@@ -26,7 +26,7 @@ const testimonialData: Testimonial[] = [
     name: "Gladys Guimarães",
     designation: "Representante legal",
     content:
-      "Com nossa resiliência, realizamos o que parecia impossível. Hoje, nos encontramos em um lugar que muitos duvidavam que alcançaríamos…",
+      "Tenho muito orgulho de estar entre jovens proativos e com um futuro brilhante. É sobre isso.",
     image: "/images/testimonials/Gladys.jpg",
     star: 5,
   },
