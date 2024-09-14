@@ -6,7 +6,7 @@ const testimonialData: Testimonial[] = [
   {
     id: 1,
     name: "Kayque de Jesus",
-    designation: "Realizador do projeto Entre Mundos",
+    designation: "Diretor do projeto Entre Mundos",
     content:
       "Este projeto, não se trata apenas de um game, mas de uma visão de mundo, em diferentes pontos de vista.",
     image: "/images/testimonials/kay.jpg",
@@ -23,6 +23,15 @@ const testimonialData: Testimonial[] = [
   },
   {
     id: 3,
+    name: "Gladys Guimarães",
+    designation: "Representante legal",
+    content:
+      "Com nossa resiliência, realizamos o que parecia impossível. Hoje, nos encontramos em um lugar que muitos duvidavam que alcançaríamos…",
+    image: "/images/testimonials/Gladys.jpg",
+    star: 5,
+  },
+  {
+    id: 4,
     name: "Lucas Rodrigues",
     designation: "Sonoplasta do projeto Entre Mundos",
     content:
@@ -31,7 +40,7 @@ const testimonialData: Testimonial[] = [
     star: 5,
   },
   {
-    id: 4,
+    id: 5,
     name: "Rute Vitória",
     designation: "Revisora do Projeto Entre Mundos",
     content:
@@ -40,7 +49,7 @@ const testimonialData: Testimonial[] = [
     star: 5,
   },
   {
-    id: 5,
+    id: 6,
     name: "Maria Eduarda",
     designation: "Dubladora do Projeto Entre Mundos",
     content:
@@ -49,7 +58,7 @@ const testimonialData: Testimonial[] = [
     star: 5,
   },
   {
-    id: 6,
+    id: 7,
     name: "Arthur Rocha",
     designation: "Editor do Projeto Entre Mundos",
     content:
@@ -57,6 +66,7 @@ const testimonialData: Testimonial[] = [
     image: "/images/testimonials/Arthur.jpg",
     star: 5,
   },
+  
 ];
 
 const Testimonials = () => {
