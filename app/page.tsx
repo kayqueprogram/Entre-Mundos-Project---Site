@@ -15,7 +15,7 @@ import { Metadata } from "next";
 ;
 
 export const metadata: Metadata = {
-  title: "Entre Mundos - Visual Novel(Comtemplado na LPG)",
+  title: "Entre Mundos - Visual Novel",
   description: "Projeto de game Visual Novel, contemplado no edital de Conteúdos Digitais, da Lei Paulo Gustavo, de incentivo á produção cultural - 2024. (Lei Complementar n.º 195, de 08 de julho de 2022)",
 };
 

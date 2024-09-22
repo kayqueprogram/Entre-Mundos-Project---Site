@@ -21,7 +21,7 @@ export default function RootLayout({
         head.js. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
       <head>
-        <title>Entre Mundos - Visual Novel (Contemplado na LPG)</title>
+        <title>Entre Mundos - Visual Novel</title>
 
         <meta name="google-site-verification" content="HXK5dnjVmPdWgukB5mk9Lwgk4KMk-DU6M6HYeWE9o-8" />
       </head>
