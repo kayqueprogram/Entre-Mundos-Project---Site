@@ -26,7 +26,7 @@ const Video = () => {
               data-wow-delay=".15s"
             >
               <div className="relative aspect-[77/40] items-center justify-center">
-                <Image src="/images/video/video.png" alt="video image" fill />
+                <Image src="https://firebasestorage.googleapis.com/v0/b/portfolio-9105a.appspot.com/o/Captura%20de%20tela%202024-10-05%20171539.png?alt=media&token=99d54aac-37bd-4a7d-9e56-25b986dae066" alt="video image" fill />
                 <div className="absolute right-0 top-0 flex h-full w-full items-center justify-center">
                   <button
                     aria-label="video play button"

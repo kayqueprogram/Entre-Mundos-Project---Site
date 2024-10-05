@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["localhost", 'cdn.discordapp.com'],
+    domains: ["localhost", 'cdn.discordapp.com', "firebasestorage.googleapis.com"],
     remotePatterns: [
       {
         protocol: "https",
