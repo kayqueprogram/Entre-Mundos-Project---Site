@@ -3,6 +3,7 @@ import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import Blog from "@/components/Blog";
 import Brands from "@/components/Brands";
 import ScrollUp from "@/components/Common/ScrollUp";
+import Head from "next/head";
 
 import Development from "@/components/Development";
 
@@ -22,6 +23,7 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <>
+    
       <ScrollUp />
       <Hero />
       <Development />

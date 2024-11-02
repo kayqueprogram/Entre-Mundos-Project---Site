@@ -17,6 +17,12 @@ const AboutPage = () => {
         pageName="Sobre o game"
         description="Página em construção..."
       />
+
+
+     
+      <AboutSectionOne />
+      
+    
     
     </>
   );
