@@ -31,6 +31,15 @@
     @apply opacity-100;
   }
 }
- .image {
-  
- }
+
+/*
+.image {
+  position: relative;
+  width: 100%; 
+  height: 1000px;
+}
+
+.image img {
+  width: 30%;
+  height: auto;
+ }*/

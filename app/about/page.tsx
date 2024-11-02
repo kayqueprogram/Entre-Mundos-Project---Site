@@ -21,8 +21,9 @@ const AboutPage = () => {
 
      
       <AboutSectionOne />
+      <AboutSectionTwo/>
       
-    
+
     
     </>
   );
