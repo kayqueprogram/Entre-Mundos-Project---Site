@@ -15,7 +15,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="Sobre o game"
-        description="Página em construção..."
+        description="Entre Mundos"
       />
 
 
