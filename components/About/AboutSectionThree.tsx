@@ -1,19 +1,21 @@
 import Image from "next/image";
 import SectionTitle from "../Common/SectionTitle";
 
-
-const AboutSectionTwo = () => {
-  return (
-    <section className="py-16 md:py-20 lg:py-28">
-      <div className="container">
-        <div
+/*   <div
           className="wow fadeInUp mx-auto max-w-[800px] text-center"
           data-wow-delay=".2s"
         >
           <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
             Personagens
           </h1>
-        </div>
+        </div>*/
+
+
+const AboutSectionThree = () => {
+  return (
+    <section className="py-16 md:py-20 lg:py-28">
+      <div className="container">
+      
         <div className="-mx-4 flex flex-wrap items-center">
           <div className="w-full px-4 lg:w-1/2">
 
@@ -24,7 +26,7 @@ const AboutSectionTwo = () => {
             >
 
               <Image
-                src="/images/about/sprite_akane.png"
+                src="/images/about/sprite_toya.png"
                 alt="about image"
                 width={600}
                 height={336}
@@ -34,7 +36,7 @@ const AboutSectionTwo = () => {
           </div>
           <div className="w-full px-4 lg:w-1/2">
           <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-            Akane Tachibana
+          Toya Takahashi 
           </h1>
             <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
               <div className="mb-9">
@@ -42,7 +44,7 @@ const AboutSectionTwo = () => {
                   Idade
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                 17
+                 18
                 </p>
               </div>
               <div className="mb-9">
@@ -50,14 +52,14 @@ const AboutSectionTwo = () => {
                  Personalidade
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                É uma jovem vibrante e determinada, com uma personalidade marcante. Apesar de ser muda, sua habilidade de comunicação é notável, expressando-se com confiança e clareza em suas interações. Competitiva por natureza, Akane adora desafios e tem uma energia contagiante que a torna naturalmente sociável, sempre buscando se conectar com as pessoas ao seu redor.                </p>
+                Toya é um jovem de postura serena e sofisticada, com uma inteligência aguçada e um raciocínio bem desenvolvido. Seus amigos frequentemente o enxergam como uma figura mais experiente e confiável, recorrendo a ele em busca de conselhos, graças ao seu forte senso social. Sua calma e responsabilidade fazem dele um conciliador natural, sempre buscando harmonia nas situações, o que inspira confiança e respeito em quem o conhece.             </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-              Sobre a personagem
+              Sobre o personagem
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Akane é a irmã mais velha de Hikari. Ambas sofreram um acidente de carro com os pais quando eram mais novas, resultando em traumas pós-acidente que deixaram Akane muda. A relação entre as irmãs era muito boa, mas após o acidente, Hikari passou a culpar Akane pela morte dos pais. Apesar disso, Akane mantém um forte senso de proteção em relação à irmã mais nova, mesmo que Hikari não goste tanto dela
+                Ele é cego de nascença, e seus pais o abandonaram quando era pequeno por isso ele vive no orfanato. Durante seu crescimento ele conseguiu criar a habilidade física e percepção para treinar jiu-jitsu, se tornando muito bom na arte da luta. 
                 </p>
               </div>
             </div>
@@ -68,4 +70,4 @@ const AboutSectionTwo = () => {
   );
 };
 
-export default AboutSectionTwo;
+export default AboutSectionThree;
