@@ -56,7 +56,7 @@ const testimonialData: Testimonial[] = [
       "Graças ao nosso trabalho árduo e persistência, conseguimos alcançar um futuro que jamais imaginaríamos que iríamos chegar um dia. E com mais esforços, chegaremos ainda mais longe com esse projeto incrível.",
     image: "/images/testimonials/maria.jpg",
     star: 5,
-  },
+  },/*
   {
     id: 7,
     name: "Arthur Rocha",
@@ -65,7 +65,7 @@ const testimonialData: Testimonial[] = [
       "O projeto de fato está poggers, foi uma experiência única fazer parte da build do projeto, um projeto simples mas ambicioso, com o potencial de farmar muitos players amantes de jogos Indie",
     image: "/images/testimonials/Arthur.jpg",
     star: 5,
-  },
+  },*/
   
 ];
 
