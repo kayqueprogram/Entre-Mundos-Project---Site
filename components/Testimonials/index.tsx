@@ -48,15 +48,7 @@ const testimonialData: Testimonial[] = [
     image: "/images/testimonials/Rute.png",
     star: 5,
   },
-  {
-    id: 6,
-    name: "Maria Eduarda",
-    designation: "Dubladora do Projeto Entre Mundos",
-    content:
-      "Graças ao nosso trabalho árduo e persistência, conseguimos alcançar um futuro que jamais imaginaríamos que iríamos chegar um dia. E com mais esforços, chegaremos ainda mais longe com esse projeto incrível.",
-    image: "/images/testimonials/maria.jpg",
-    star: 5,
-  },/*
+  /*
   {
     id: 7,
     name: "Arthur Rocha",
