@@ -18,7 +18,12 @@ const menuData: Menu[] = [
     title: "Game",
     newTab: false,
     submenu: [
-
+      {
+        id: 5,
+        title: "Artes",
+        path: "/arts",
+        newTab: false,
+      }
      
     ],
   },
