@@ -38,7 +38,24 @@ const ArtsSectionOne = () => {
                   
                   className="drop-shadow-three mx-auto hidden max-w-full dark:block dark:drop-shadow-none lg:mr-0"
                 />
-                LEG: pais espancando Shido
+                <p>LEG: pais espancando Shido</p>
+              </div>
+
+              
+              <div
+                className="wow fadeInUp relative mx-auto aspect-[25/24] max-w-[1000px] lg:mr-0 image"
+                data-wow-delay=".2s"
+              >
+                <Image
+                  src="/images/Arts/Art_002.jpg"
+                  alt="about-image"
+                  
+                  width={1920}
+                  height={1080}
+                  
+                  className="drop-shadow-three mx-auto hidden max-w-full dark:block dark:drop-shadow-none lg:mr-0"
+                />
+                <p>LEG: Shido acordando em desespero</p>
               </div>
               
             </div>
