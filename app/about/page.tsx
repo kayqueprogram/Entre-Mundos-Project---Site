@@ -7,6 +7,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 
 
 import { Metadata } from "next";
+import AboutSectionFifty from "@/components/About/AboutSectionFifty";
 
 export const metadata: Metadata = {
   title: "About Page | Free Next.js Template for Startup and SaaS",
@@ -28,6 +29,7 @@ const AboutPage = () => {
       <AboutSectionTwo/>
       <AboutSectionThree/>
       <AboutSectionFour/>
+      <AboutSectionFifty/>
 
     
     </>
